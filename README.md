@@ -1,4 +1,5 @@
 # Html-DOM-JS
+Output here 👉 https://pksatyam777.github.io/Html-DOM-JS/ 🔥
 Problem-Statement:-
 Q3. Create 2 div elements one having id=”root” and another having class=”blue-white” and have some header elements inside. create 2 &lt;p> tags one having no attributes to it and
 another having class=”blue-white” and have some text inside.
